@@ -1,0 +1,7 @@
+{
+  "builds": [],
+  "routes": [
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
+}
+
